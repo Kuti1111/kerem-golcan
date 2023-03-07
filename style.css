@@ -1,0 +1,9 @@
+body {
+    background: linear-gradient(to left,#87CEEB, #00FF7F);
+}
+div {
+    text-align: center;
+    position: absolute;
+    top: 310px;
+    left: 599px;
+}
